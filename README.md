@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tashwinsj
-- 👀 I’m interested in opensource.
+- 👀 I’m interested in software dev and data science.
 - 📫 How to reach me tashwinsjprof@gmail.com
 
 <!---
